@@ -1,4 +1,4 @@
-- 👋  Hi, I’m T.J. @tesposito4.  San Diego-based.
+- 👋  Hi, I’m T.J. @tjesposito.  San Diego-based.
 - 👀  Into full-stack Web app development (traditionally JS/Java and picking up Node for backend)
 - 🌱  Currently learning React
 - 💞️  Looking to collaborate on anything I'm able to contribute to!
