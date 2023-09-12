@@ -1,6 +1,6 @@
 - 👋  Hi, I’m T.J. @tjesposito.  San Diego-based.
-- 👀  Into full-stack Web app development (traditionally JS/Java, some Node for backend)
-- 🌱  React in TypeScript is my current learning topic. 
+- 👀  Into full-stack Web app development (React in TypeScript, Java and previously some Node for backend)
+- 🌱  Vert.x
 - 📫  Gmail is: tesposito and https://www.linkedin.com/in/tjesposito
 
 <!---
